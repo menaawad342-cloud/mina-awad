@@ -1,0 +1,19 @@
+# AI training crawlers — blocked
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# AI search crawlers — allowed
+User-agent: OAI-SearchBot
+Allow: /
+
+# All other crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://mina-awad.github.io/mina-awad/sitemap.xml
