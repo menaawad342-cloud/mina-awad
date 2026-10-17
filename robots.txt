@@ -16,4 +16,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://mina-awad.github.io/mina-awad/sitemap.xml
+Sitemap: https://menaawad342-cloud.github.io/sitemap.xml
